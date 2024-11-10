@@ -1,7 +1,5 @@
-import Image from "next/image";
+import Nav from '@/components/Navigation';
 
 export default function Home() {
-  return (
-    <h1>Hello World</h1>
-  );
+  return <p>Hello</p>;
 }
